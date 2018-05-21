@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bb570ea3444052b4c662c525b052f545",
+    "content-hash": "d8e97d2998aff20cbb00700db921b9a2",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -741,7 +741,7 @@
         },
         {
             "name": "mingalevme/illuminate-uqueue",
-            "version": "dev-master",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mingalevme/illuminate-uqueue.git",
@@ -4078,9 +4078,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "mingalevme/illuminate-uqueue": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
